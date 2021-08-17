@@ -22,8 +22,8 @@
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.1.1",
     "docusaurus-lunr-search": "^2.1.14",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "swarm-cli": "^1.2.2"
   },
   "browserslist": {
